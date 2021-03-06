@@ -4,7 +4,7 @@
 
 # Watchful Snake is licensed under the
 # GNU General Public License Version 3.
-# Dimitar D. Mitov 2020
+# Dimitar D. Mitov 2021
 # https://github.com/ddmitov/watchful-snake
 
 # Python Standard Library modules:
@@ -62,9 +62,7 @@ def mysql_binlog_watcher():
         mysql_settings_json = json.loads(mysql_settings)
 
         mysql_connection_settings = mysql_settings_json['connection']
-
         mysql_schemas = mysql_settings_json['schemas']
-
         mysql_tables = mysql_settings_json['tables']
 
         # Last MySQL binary log file recorded in Redis:

@@ -4,7 +4,7 @@
 
 # Watchful Snake is licensed under the
 # GNU General Public License Version 3.
-# Dimitar D. Mitov 2020
+# Dimitar D. Mitov 2021
 # https://github.com/ddmitov/watchful-snake
 
 # Python Standard Library modules:
