@@ -1,4 +1,5 @@
 *.txt
+*.sql
 
 backup
 upgit
